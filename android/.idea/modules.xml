@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-568874576/android.background_fetch.iml" filepath="$PROJECT_DIR$/.idea/modules/-568874576/android.background_fetch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-518496982/android.flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/-518496982/android.flutter_local_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1819598425/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1819598425/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-645784059/android.sqflite_sqlcipher.iml" filepath="$PROJECT_DIR$/.idea/modules/-645784059/android.sqflite_sqlcipher.iml" />
+    </modules>
+  </component>
+</project>
